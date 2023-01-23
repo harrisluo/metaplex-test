@@ -5,5 +5,6 @@
   "image": "https://generator.artblocks.io/138000041",
   "animation_url": "https://generator.artblocks.io/138000041",
   "external_url": "",
-  "attributes": []
+  "attributes": [],
+  "script_url": "https://raw.githubusercontent.com/harrisluo/metaplex-test/main/fid.js"
 }
