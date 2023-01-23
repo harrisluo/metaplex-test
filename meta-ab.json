@@ -1,8 +1,9 @@
 {
-  "name": "Meta 1",
-  "symbol": "",
+  "name": "Meta Art Blocks",
+  "symbol": "AB",
   "description": "Test Metaplex metadata",
-  "seller_fee_basis_points": 0,
   "image": "https://generator.artblocks.io/138000041",
-  "animation_url": "https://generator.artblocks.io/138000041"
+  "animation_url": "https://generator.artblocks.io/138000041",
+  "external_url": "",
+  "attributes": []
 }
