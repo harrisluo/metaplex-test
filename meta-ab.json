@@ -2,10 +2,8 @@
   "name": "Meta Art Blocks",
   "symbol": "AB",
   "description": "Test Metaplex metadata",
-  "image": "https://generator.artblocks.io/138000041",
-  "animation_url": "https://generator.artblocks.io/138000041",
+  "image": "",
+  "animation_url": "",
   "external_url": "",
-  "attributes": [],
-  "script_url": "https://raw.githubusercontent.com/harrisluo/metaplex-test/main/fid.js",
-  "script_hash": "08c1373fa241742c279bdf8da65f1c2ce69eb556046d094f929e2460e06a5832"
+  "attributes": []
 }
